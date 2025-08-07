@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".content a").fancybox(),TweenMax.staggerFrom($(".content a"),2,{top:100,opacity:.1},.1)}),$(document).ready(function(){$(".content-vid a").fancybox(),TweenMax.staggerFrom($(".content-vid a"),2,{top:100,opacity:.1},.1)});
